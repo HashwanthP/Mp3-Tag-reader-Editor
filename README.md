@@ -45,8 +45,11 @@ The program validates the MP3 file using the ID3 header before processing.
 - Replaces original file after editing  
 
 #View Tags
+
 ./mp3_tag -v song.mp3
+
 #Edit Tags
+
 ./mp3_tag -e -t "New Title" song.mp3
 
 🎯 Learning Outcome
